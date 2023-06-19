@@ -4,16 +4,16 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: info@gustavo.com
+  github: gusttavo7
+  linkedin: guxttavo
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
+  - idiom: Portugues
+  - idiom: Ingles
   - idiom: French
 
 education:
