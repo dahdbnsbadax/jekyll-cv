@@ -35,12 +35,12 @@ skills:
 
 # Profile
 profile: |
-  Apenas um estudante
+  Apenas um pessoa comum (ou não)
 
 # Experience
 experience:
   - role: Cientista
-    time: 2027-Present
+    time: 2030-Present
     company: Nasa
     details: |
      Entender e interpretar a relação da terra com outros planetas e com o universo. 
@@ -49,48 +49,26 @@ experience:
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Researcher
-    time: 2016-2020
+  - role: Tecnico em Informática
+    time: 2017-2029
     company: Microsoft
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+       montagem, acabamento e manutenção de computadores, além da identificação e correção de problemas em aparelhos eletrônicos.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
 publications:
-  - title: Random title of paper. An interesting one.
+  - title: O Universo de Phyton
     link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+    authors: Gustavo Emanuel
+   
 
-  - title: Second title of paper. An interesting one too.
+  - title: O Universo além das Estrelas
     link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+    authors: Gustavo Emanuel
+    
 
 projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+  Nenhum
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
 
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
