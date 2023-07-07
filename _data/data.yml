@@ -28,34 +28,23 @@ skills:
     skill: 
       - Phyton
       - Java
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+  - category: Física
+  - category: Astronomia
+  
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Apenas um estudante
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Cientista da Nasa
+    time: 2027-Present
+    company: Nasa
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+     Entender e interpretar a relação da terra com outros planetas e com o universo. 
+     Ainda procuramos novos planetas, tentar entender estrelas, galáxias, 
+     buracos negros e outros fenômenos, ou tentar mapear todo o céu.
     technologies_used: | 
       Go, Angular, Typescript, C++
   
