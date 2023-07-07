@@ -29,8 +29,9 @@ skills:
       - Phyton
       - Java
   - category: Física
+      - Movimento Retilíneo Uniformemente Variavél (MRUV)
   - category: Astronomia
-  
+      -Estudar de tudo no Universo além da atmosfera da Terra 
 
 # Profile
 profile: |
@@ -38,7 +39,7 @@ profile: |
 
 # Experience
 experience:
-  - role: Cientista da Nasa
+  - role: Cientista
     time: 2027-Present
     company: Nasa
     details: |
