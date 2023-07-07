@@ -17,19 +17,17 @@ languages:
   - idiom: Espanhol
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - escola: IFRN
+    time: 2023-2026
+    Curso: Informática
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+ 
 
 skills:
-  - category: Backend
+  - category: Programação
     skill: 
-      - Go
-      - Rust
+      - Phyton
+      - Java
   - category: Frontend
     skill:
       - React
